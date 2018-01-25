@@ -10,7 +10,7 @@ BLIINK Web SDK is a javascript library for loading BLIINK in-image ads unit in p
 
 ## Installation
 
-- HTML
+### HTML
 
 Place this code before `</html>` tag in your web page to initialize `BLIINK Web SDK` and call for and ad
 
@@ -30,7 +30,7 @@ Don't forgot to replace parameters between `[ ]` with your own IDs provided by u
 <!-- /BLIINK -->
 ```
 
-- NPM package
+### NPM package
 
 > Coming soon
 
