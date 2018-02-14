@@ -21,7 +21,7 @@ Don't forgot to replace parameters between `[ ]` with your own IDs provided by u
 <script type="text/javascript" charset="utf-8">
   var BLIINK_CACHEBUSTER = Math.round(new Date().getTime() / 1000);
   var BLIINK_PROTOCOL = (document.location.protocol === 'http:') ? 'http' : 'https'
-  var BLIINK_MASTERTAG_URL = BLIINK_PROTOCOL + '://tag.bliink.io/lib/library.min.js?cb=' + BLIINK_CACHEBUSTER
+  var BLIINK_MASTERTAG_URL = BLIINK_PROTOCOL + '://tag.bliink.io/library.min.js?cb=' + BLIINK_CACHEBUSTER
   document.write('\x3Cscript type="text/javascript" src="' + BLIINK_MASTERTAG_URL + '">\x3C/script>')
 </script>
 <script type="text/javascript" charset="utf-8">
